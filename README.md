@@ -20,5 +20,8 @@ This Python application is a simple banking system that allows users to check th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/banking-system.git
+   git clone https://github.com/akhil-singh-bartwal/banking-system.git
    cd banking-system
+2. Install the required packages:
+   ```bash
+   pip install mysql-connector-python
