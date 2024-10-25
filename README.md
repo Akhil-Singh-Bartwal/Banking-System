@@ -10,7 +10,7 @@ This Python application is a simple banking system that allows users to check th
 - Input validation for account existence and fund sufficiency
 
 ## Requirements
-- Python 3.x
+- Python 3.12
 - MySQL Connector for Python
 - A MySQL database with the name `bank`
 - A table named `user_info` with at least the following columns:
