@@ -1,4 +1,3 @@
-# This is my Banking System project.
 # Banking System in Python
 
 ## Overview
