@@ -47,4 +47,5 @@ This Python application is a simple banking system that allows users to check th
 Run the application using:
   ```bash
   python <script-name>.py
+  ```
 Follow the prompts to enter your account number and select the desired banking operation.
