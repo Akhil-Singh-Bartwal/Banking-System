@@ -4,7 +4,6 @@ import mysql.connector
 
 
 def connect_to_db():
-    # os.environ['DB_PASSWORD'] = 'Akhil@mysql' # only for vscode
     password = os.environ.get("DB_PASSWORD")
     connect = mysql.connector.connect(
         database="bank", host="localhost", user="root", passwd=password
